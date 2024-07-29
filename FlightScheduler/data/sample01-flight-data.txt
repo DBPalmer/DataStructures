@@ -1,0 +1,10 @@
+9
+Dallas Austin 98 47 Spirit
+Dallas Austin 98 59 American
+Austin Houston 95 39 United
+Dallas Houston 101 51 Spirit
+Austin Chicago 144 192 American
+sfo oak 33 44 american
+oak dlx 33 44 united
+oak sd 4 5 american
+sd dlx 44 66 united

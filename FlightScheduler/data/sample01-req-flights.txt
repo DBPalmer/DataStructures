@@ -1,0 +1,8 @@
+7
+Dallas Houston C
+Chicago Dallas T
+sfo oak T
+sfo dlx C
+oak dlx T
+sfo Dallas T
+sd sfo C
